@@ -1,0 +1,1 @@
+Implementation based on https://github.com/hlwang1124/SNE-RoadSeg/tree/c3dcf224697c07e075d7758cd6da4b564e456331/data
